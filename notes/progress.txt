@@ -1,0 +1,3 @@
+Day 1 - learned file navigation
+Day 1 - learned file creation
+Day 1 - learned grep

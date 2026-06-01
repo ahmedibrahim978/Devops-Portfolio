@@ -1,0 +1,30 @@
+================================
+Log Analysis Report
+Date: Sun 24 May 2026 11:46:36 BST
+================================
+
+Analysing: /Users/ahmedibrahim/Documents/devops-practice/logs/server1.log
+---
+Total lines:        1
+Errors found: 0
+0
+No errors found
+
+Analysing: /Users/ahmedibrahim/Documents/devops-practice/logs/server2.log
+---
+Total lines:        1
+Errors found: 0
+0
+No errors found
+
+Analysing: /Users/ahmedibrahim/Documents/devops-practice/logs/server3.log
+---
+Total lines:        1
+Errors found: 0
+0
+No errors found
+
+================================
+Analysis Complete
+Report saved to: /Users/ahmedibrahim/Documents/devops-practice/notes/log-report.txt
+================================

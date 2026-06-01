@@ -1,0 +1,3 @@
+ERROR - database connection failed
+ERROR - server timeout
+INFO - system running normally
