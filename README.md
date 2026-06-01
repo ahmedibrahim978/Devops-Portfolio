@@ -19,4 +19,5 @@ engineer
 ##Roadmap
 Linux - Bash - Git - Python - Networking - AWS - Docker - CI/CD - Terraform - Kubernetes
 
-
+## Current Status
+Actively learning - Month 1 Complete
