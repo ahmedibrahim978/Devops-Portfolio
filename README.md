@@ -21,3 +21,4 @@ Linux - Bash - Git - Python - Networking - AWS - Docker - CI/CD - Terraform - Ku
 
 ## Current Status
 Actively learning - Month 1 Complete
+New laptop Thinkpad L14 -setup complete
